@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" viewBox="0 0 1699.1 861.2">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M2906,1010.9"/>
+  <path class="st1" d="M1165,402.6"/>
+  <path class="st1" d="M19.6,418c0,.2,0,.3.2.3h1151.6c0,0,.2-.1.2-.3v-15.1"/>
+  <path class="st1" d="M1171.6,22.1c0-.2,0-.3-.2-.3H19.8c-.1,0-.2.1-.2.3v8.5"/>
+  <line class="st0" x1="2906" y1="1015.8" x2="2906" y2="1009.1"/>
+  <line class="st1" x1="19.6" y1="30.6" x2="19.6" y2="418"/>
+  <line class="st1" x1="1171.6" y1="22.1" x2="1171.6" y2="402.9"/>
+  <circle class="st1" cx="110.7" cy="700.9" r="27"/>
+  <rect class="st1" x="19.6" y="430.6" width="684" height="360"/>
+  <rect class="st1" x="718.8" y="430.6" width="684" height="360"/>
+</svg>
